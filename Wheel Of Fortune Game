@@ -1,3 +1,4 @@
+#Game of fortue game in python
 class WOFPlayer:
     def __init__(self,name):
         self.name = name
