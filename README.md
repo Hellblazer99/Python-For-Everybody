@@ -1,2 +1,1 @@
-# Python-For-Everybody
-This repo contains all the projects that I made while learning Python
+## This is a basic python console game that I developed while learning Python
